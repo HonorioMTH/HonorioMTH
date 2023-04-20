@@ -2,8 +2,9 @@
 
 
 - 🧑‍💻 Desenvolvedor estagiário no Banco BTG Pactual.
-- 📖 Estudando Python & RPA
-- 📈 Objetivo de se tornar um desenvolvedor versátil para atuar em qualquer área porém, especialista em Back-End.
+- 👨‍🎓 Graduando em Análise e desenvimento de sitemas - UCL.
+- 📖 Estudando Python & RPA.
+- 📈 Objetivo de me tornar um desenvolvedor especialista em Back-End, com habilidades versáteis para atuar em diversas áreas.
 <br>
 <div align="center" >
   <h3>👇 Abaixo um resumo da minha jornada como dev 👇</h3>
@@ -35,6 +36,23 @@
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">  
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  </div>
+  
+ ##
+  <div align="center">
+    <h3>👇 Cursos e certificações 👇</h3>
+  <p> 
+    - Generation Brasil,
+Bootcamp de Desenvolvedor Web Jr Full Stack,
+    Agosto de 2022 - Janeiro de 2023
+    </p> 
+    
+ <p> 
+    - DIO (Banco Pan)
+Bootcamp Java Spring boot Developer
+   Fevereiro de 2023 - (CURSANDO) +114HRS
+    </p>
+  </div> 
+ 
  
  ##
  
