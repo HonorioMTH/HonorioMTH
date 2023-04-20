@@ -6,7 +6,7 @@
 - 📈 Objetivo de se tornar um desenvolvedor versátil para atuar em qualquer área porém, especialista em Back-End.
 <br>
 <div align="center" >
-  <h3>👇 Abaixo um resumo sobre mim 👇</h3>
+  <h3>👇 Abaixo um resumo da minha jornada como dev 👇</h3>
 </div>
 <div align="center">
   <a href="https://github.com/HonorioMTH">
